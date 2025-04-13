@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/spred-logo.png" width="120" alt="Spred logo"/>
+</p>
 # Spred Protocol — README
 
 **"Spred it before it happens."**  
